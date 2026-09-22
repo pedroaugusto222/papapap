@@ -9,8 +9,8 @@ alignItems: 'center',
 height: '100vh'
 }}>
 <ElectricBorder
-color="#5227FF"
-speed={1}
+color="#006d0f"
+speed={0.5}
 chaos={0.5}
 borderRadius={16}
 >
